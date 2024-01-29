@@ -1,3 +1,4 @@
+Module 11 Challenge
 Background:
 You are now equipped to undertake a comprehensive web-scraping and data analysis project. You have acquired the skills to identify HTML elements on a webpage, extract information using both automated browsing with Splinter and HTML parsing with Beautiful Soup, and scrape various types of data such as HTML tables and recurring elements like news articles.
 
